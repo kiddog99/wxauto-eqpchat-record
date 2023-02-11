@@ -1,0 +1,4 @@
+'''
+信息收集成功，采集编号为'''
+
+WxUtils.SetClipboard(text)
